@@ -1,0 +1,30 @@
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\bai tap\QuanLyCuaHangVemouse\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

@@ -1,0 +1,34 @@
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataModel.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataModel.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\bin\Debug\net6.0\DataModel.pdb
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\bai tap\QuanLyCuaHangVemouse\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll

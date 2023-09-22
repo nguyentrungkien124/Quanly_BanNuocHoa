@@ -1,0 +1,24 @@
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\year-3-university\lập trình hướng dịch vụ\BaiTapLon\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\bai tap\QuanLyCuaHangVemouse\DataModel\obj\Debug\net6.0\ref\DataModel.dll
