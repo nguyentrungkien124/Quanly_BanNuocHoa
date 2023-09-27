@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\bai tap\\QuanLyCuaHangVemouse\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\bai tap\\QuanLyCuaHangNuocHoa\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\bai tap\\QuanLyCuaHangVemouse\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\bai tap\\QuanLyCuaHangNuocHoa\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\bai tap\\QuanLyCuaHangVemouse\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\bai tap\\QuanLyCuaHangNuocHoa\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -724,8 +724,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\bai tap\\QuanLyCuaHangVemouse\\DataModel\\DataModel.csproj": {
-              "projectPath": "D:\\bai tap\\QuanLyCuaHangVemouse\\DataModel\\DataModel.csproj"
+            "D:\\bai tap\\QuanLyCuaHangNuocHoa\\DataModel\\DataModel.csproj": {
+              "projectPath": "D:\\bai tap\\QuanLyCuaHangNuocHoa\\DataModel\\DataModel.csproj"
             }
           }
         }
